@@ -12,7 +12,7 @@ const UserContext2 = React.createContext()
 export default UserContext2;
 ```
 
-### 2. This is the UserContextPro2.js
+### 2. This is the UserContextPro2.jsx
 ```javascript
 import React, { useState } from "react";
 import UserContext2 from "./UserContext2";
